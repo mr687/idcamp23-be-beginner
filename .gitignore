@@ -1,0 +1,7 @@
+node_modules
+/bookshelf-db
+.env*
+!.env.example
+
+.DS_Store
+._*
